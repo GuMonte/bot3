@@ -1,0 +1,8 @@
+krakenex
+pandas
+ta
+python-dotenv
+time
+datetime
+csv
+requests
